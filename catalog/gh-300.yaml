@@ -1,0 +1,11 @@
+course_id: gh-300
+title: GitHub Copilot for Software Development
+version: "1.0"
+status: draft
+description: Courseware on GitHub Copilot, AI-assisted software delivery, and MCP.
+technology_tags:
+  - GitHub Copilot
+  - Model Context Protocol
+  - Prompt Engineering
+  - Responsible AI
+source_root: Courses/GH-300

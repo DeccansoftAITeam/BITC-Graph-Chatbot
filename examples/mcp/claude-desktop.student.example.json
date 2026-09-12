@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bestitcourses-learning": {
+      "command": "D:\\path\\to\\bitc-graphrag-chatbot\\.venv\\Scripts\\course-knowledge-student-mcp.exe",
+      "cwd": "D:\\path\\to\\bitc-graphrag-chatbot"
+    }
+  }
+}

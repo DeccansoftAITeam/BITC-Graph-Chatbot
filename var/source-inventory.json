@@ -1,0 +1,552 @@
+{
+  "schema_version": 1,
+  "courses": [
+    {
+      "course_id": "gh-300",
+      "title": "GitHub Copilot for Software Development",
+      "version": "1.0",
+      "status": "draft",
+      "source_root": "Courses/GH-300",
+      "technology_tags": [
+        "GitHub Copilot",
+        "Model Context Protocol",
+        "Prompt Engineering",
+        "Responsible AI"
+      ]
+    },
+    {
+      "course_id": "openai-courseware",
+      "title": "OpenAI Developer Courseware",
+      "version": "1.0",
+      "status": "draft",
+      "source_root": "Courses/Open AI - Courseware",
+      "technology_tags": [
+        "OpenAI API",
+        "Retrieval Augmented Generation",
+        "Embeddings",
+        "Model Context Protocol",
+        "LangChain"
+      ]
+    }
+  ],
+  "summary": {
+    "course_count": 2,
+    "source_placements": 42,
+    "unique_sources": 42,
+    "duplicate_source_groups": 0
+  },
+  "duplicate_source_groups": [],
+  "source_placements": [
+    {
+      "course_id": "gh-300",
+      "module_key": "prompt-engineering-for-developers",
+      "module_title": "Prompt Engineering for Developers",
+      "module_ordinal": [
+        1
+      ],
+      "source_path": "Courses/GH-300/1 - Prompt Engineering for Developers.md",
+      "source_type": "markdown",
+      "byte_size": 31256,
+      "content_sha256": "e069896a3f88afb7004e10dc2b41718ec7b0da2c572b819f467440d47d383704"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "debugging-with-copilot",
+      "module_title": "Debugging with Copilot",
+      "module_ordinal": [
+        10
+      ],
+      "source_path": "Courses/GH-300/10 - Debugging with Copilot.md",
+      "source_type": "markdown",
+      "byte_size": 9098,
+      "content_sha256": "e655180d6292ed27816cfb1124ece25f7b13267134ac6a6dead5e22e384ee8d8"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "document-generation",
+      "module_title": "Document Generation",
+      "module_ordinal": [
+        11
+      ],
+      "source_path": "Courses/GH-300/11 - Document Generation.md",
+      "source_type": "markdown",
+      "byte_size": 8995,
+      "content_sha256": "afa249dd88cb77c2a2c6e7b2537eb38011bc35dced7494d338b7037162e0b9e0"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "refactoring-with-copilot",
+      "module_title": "Refactoring with Copilot",
+      "module_ordinal": [
+        12
+      ],
+      "source_path": "Courses/GH-300/12 - Refactoring with Copilot.md",
+      "source_type": "markdown",
+      "byte_size": 5891,
+      "content_sha256": "c35bdedfa0d30da34770a9cc7e27242df5b6856786ffaa881db9fb472d45c86a"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "github-copilot-plans-licensing-and-enterprise-capabilities",
+      "module_title": "GitHub Copilot Plans, Licensing, and Enterprise Capabilities",
+      "module_ordinal": [
+        13
+      ],
+      "source_path": "Courses/GH-300/13 - GitHub Copilot Plans, Licensing, and Enterprise Capabilities.md",
+      "source_type": "markdown",
+      "byte_size": 13630,
+      "content_sha256": "ad2ae569cd406e7d46927474f85990f8d6e4a88821b10b0c719bca8dc3d74ffc"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "github-copilot-git-workflow-handbook",
+      "module_title": "GitHub-Copilot-Git-Workflow-Handbook",
+      "module_ordinal": [
+        14
+      ],
+      "source_path": "Courses/GH-300/14 - GitHub-Copilot-Git-Workflow-Handbook.md",
+      "source_type": "markdown",
+      "byte_size": 22886,
+      "content_sha256": "842d678fa91e081e32acec7b62098c7659e49c7cc7a2a1675f63c87727f91416"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "principles-of-responsible-ai",
+      "module_title": "Principles of Responsible AI",
+      "module_ordinal": [
+        15
+      ],
+      "source_path": "Courses/GH-300/15 - Principles of Responsible AI.md",
+      "source_type": "markdown",
+      "byte_size": 51508,
+      "content_sha256": "ecc830f5798285293de1fc6102c76c658d4cbd0ee19063bb0a263d50ba7f7c13"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "copilot-cli",
+      "module_title": "Copilot CLI",
+      "module_ordinal": [
+        16
+      ],
+      "source_path": "Courses/GH-300/16 - Copilot CLI.md",
+      "source_type": "markdown",
+      "byte_size": 4220,
+      "content_sha256": "53bcb31b5579892bd4eedce22db5c94d2efec37e909d090ddfce685f88ca861e"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "large-project-sdlc",
+      "module_title": "Large Project SDLC",
+      "module_ordinal": [
+        2,
+        0
+      ],
+      "source_path": "Courses/GH-300/2.0 - Large Project SDLC.md",
+      "source_type": "markdown",
+      "byte_size": 3480,
+      "content_sha256": "a2da7c74f89a1770a213e846cab76acc8721ed693cdd5516ba3ef2f01344793b"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "small-project-sdlc",
+      "module_title": "Small Project SDLC",
+      "module_ordinal": [
+        2,
+        0
+      ],
+      "source_path": "Courses/GH-300/2.0 - Small Project SDLC.md",
+      "source_type": "markdown",
+      "byte_size": 4213,
+      "content_sha256": "68d322b580625fb9d84e0945853b2e32cf83b4901c5e4d2df01cff955f7a6a9b"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "sdlc-stages-prompt",
+      "module_title": "SDLC Stages Prompt",
+      "module_ordinal": [
+        2,
+        1
+      ],
+      "source_path": "Courses/GH-300/2.1 - SDLC Stages Prompt .md",
+      "source_type": "markdown",
+      "byte_size": 8962,
+      "content_sha256": "2e7b36ec1695a4fcb19cf51dbacac45cae2739a39cd618562ca8976a3e32a441"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "meeting-transcript",
+      "module_title": "Meeting Transcript",
+      "module_ordinal": [
+        2,
+        2
+      ],
+      "source_path": "Courses/GH-300/2.2 - Meeting Transcript.md",
+      "source_type": "markdown",
+      "byte_size": 7138,
+      "content_sha256": "105008df2df89ed687b4e2f837fddd9741ef8e9e3e2ad3829346296b34b070aa"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "ai-development-evolution-and-models-for-coding",
+      "module_title": "AI Development Evolution and Models for Coding",
+      "module_ordinal": [
+        3
+      ],
+      "source_path": "Courses/GH-300/3 - AI Development Evolution and Models for Coding.md",
+      "source_type": "markdown",
+      "byte_size": 10802,
+      "content_sha256": "1bf736f9816d24d6df53e2219bf09b74344038b21322d74cfdad3e3a5614d65d"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "vibe-coding-platforms",
+      "module_title": "Vibe Coding Platforms",
+      "module_ordinal": [
+        4
+      ],
+      "source_path": "Courses/GH-300/4 - Vibe Coding Platforms.md",
+      "source_type": "markdown",
+      "byte_size": 11892,
+      "content_sha256": "d8941c54888ab4f5af2317d6431a48f6a918c8431263ece32be7c4b2d6021d0d"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "github-copilot-architecture-how-it-works",
+      "module_title": "GitHub Copilot Architecture & How It Works",
+      "module_ordinal": [
+        5
+      ],
+      "source_path": "Courses/GH-300/5 - GitHub Copilot Architecture & How It Works.md",
+      "source_type": "markdown",
+      "byte_size": 14884,
+      "content_sha256": "05d444ad5afaafb094502e57b4b0409c1618732948af2c9a3759189f27e09bb0"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "copilot-common-features",
+      "module_title": "Copilot Common Features",
+      "module_ordinal": [
+        6
+      ],
+      "source_path": "Courses/GH-300/6 - Copilot Common Features.md",
+      "source_type": "markdown",
+      "byte_size": 17613,
+      "content_sha256": "2cf7160a97da4d62cf8924ef9abdcd3a590f36675fce04af653520a89a39b0d9"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "copilot-agents",
+      "module_title": "Copilot Agents",
+      "module_ordinal": [
+        7
+      ],
+      "source_path": "Courses/GH-300/7 - Copilot Agents.md",
+      "source_type": "markdown",
+      "byte_size": 8683,
+      "content_sha256": "80897506b7e2dc4d838f67d2d189f447a42be533386c47e9e6277ae07a42abad"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "custom-instructions-and-skills",
+      "module_title": "Custom Instructions and Skills",
+      "module_ordinal": [
+        7
+      ],
+      "source_path": "Courses/GH-300/7 - Custom Instructions and Skills.md",
+      "source_type": "markdown",
+      "byte_size": 11696,
+      "content_sha256": "20afce3c7258b7cb7e3b0178eea237d6afda7616ce9d920029f707816ec62932"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "model-context-protocol",
+      "module_title": "Model Context Protocol",
+      "module_ordinal": [
+        8
+      ],
+      "source_path": "Courses/GH-300/8 - Model Context Protocol.md",
+      "source_type": "markdown",
+      "byte_size": 5681,
+      "content_sha256": "487bf8dfb6daa9e3f2ea1657785586c506cfa21c45549424f911db656b6f6d1b"
+    },
+    {
+      "course_id": "gh-300",
+      "module_key": "copilot-for-testing",
+      "module_title": "Copilot for Testing",
+      "module_ordinal": [
+        9
+      ],
+      "source_path": "Courses/GH-300/9 - Copilot for Testing.md",
+      "source_type": "markdown",
+      "byte_size": 5435,
+      "content_sha256": "3e2145146fc90d77f114501f4ad28f1e43248c102a391a3d713f03134373bf34"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "about-openai-models",
+      "module_title": "About OpenAI Models",
+      "module_ordinal": [
+        1
+      ],
+      "source_path": "Courses/Open AI - Courseware/1 - About OpenAI Models.md",
+      "source_type": "markdown",
+      "byte_size": 6819,
+      "content_sha256": "a87b6f9813f85722ad1fc49f93e32b47cc64d849f6ee52bebd40557dec865deb"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "about-openai-models",
+      "module_title": "About OpenAI Models",
+      "module_ordinal": [
+        1
+      ],
+      "source_path": "Courses/Open AI - Courseware/1 - About OpenAI Models.pdf",
+      "source_type": "pdf",
+      "byte_size": 4291121,
+      "content_sha256": "7042206ffe644ada2868dab9c444639f40f38efc789692c6a2942d6cd70116c1"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "function-calling",
+      "module_title": "Function Calling",
+      "module_ordinal": [
+        10
+      ],
+      "source_path": "Courses/Open AI - Courseware/10 - Function Calling.md",
+      "source_type": "markdown",
+      "byte_size": 16737,
+      "content_sha256": "f5a028792b474d87b63f5a15975ecba737ba9231b89d915810e9d434591ab956"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "model-context-protocol-copy",
+      "module_title": "Model Context Protocol - Copy",
+      "module_ordinal": [
+        11
+      ],
+      "source_path": "Courses/Open AI - Courseware/11- Model Context Protocol - Copy.md",
+      "source_type": "markdown",
+      "byte_size": 11360,
+      "content_sha256": "a6d4d532710645352a22960f93719217496936613ad0ebcf478e3eeb159cad2d"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "model-context-protocol",
+      "module_title": "Model Context Protocol",
+      "module_ordinal": [
+        11
+      ],
+      "source_path": "Courses/Open AI - Courseware/11- Model Context Protocol.md",
+      "source_type": "markdown",
+      "byte_size": 31041,
+      "content_sha256": "0cf6f5d20e4c581ec64daf32f217ee4ff125a83c82557edc7a0a52c1160c7c3a"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "fine-tuning",
+      "module_title": "Fine Tuning",
+      "module_ordinal": [
+        12
+      ],
+      "source_path": "Courses/Open AI - Courseware/12 - Fine Tuning.md",
+      "source_type": "markdown",
+      "byte_size": 5333,
+      "content_sha256": "4c72e97c1c2f64c83baac336ea1c8abd0b3118b7fd74acea4faa42d5aa0ef190"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "batch-api",
+      "module_title": "Batch API",
+      "module_ordinal": [
+        13
+      ],
+      "source_path": "Courses/Open AI - Courseware/13 - Batch API.md",
+      "source_type": "markdown",
+      "byte_size": 12384,
+      "content_sha256": "81cfaa9aae06b57633edb7ce357e57d7c9b02939619ba3e4e8731317155a2ed2"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "assistant-api",
+      "module_title": "Assistant API",
+      "module_ordinal": [
+        14
+      ],
+      "source_path": "Courses/Open AI - Courseware/14 - Assistant API.md",
+      "source_type": "markdown",
+      "byte_size": 6530,
+      "content_sha256": "56687a156e05cea66395b482144b76732be3eba948aa68943e433aada2eea028"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "langchain",
+      "module_title": "Langchain",
+      "module_ordinal": [
+        15
+      ],
+      "source_path": "Courses/Open AI - Courseware/15 - Langchain.md",
+      "source_type": "markdown",
+      "byte_size": 13692,
+      "content_sha256": "3a1cdcfb94c0b58144efd29470fe2486ae7a3d61137091f8a63bde18d384e3ff"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "capstone-project",
+      "module_title": "Capstone Project",
+      "module_ordinal": [
+        16
+      ],
+      "source_path": "Courses/Open AI - Courseware/16 - Capstone Project.md",
+      "source_type": "markdown",
+      "byte_size": 3148,
+      "content_sha256": "f84ab1199ea56ea02bfd931bf2a8150f2b9ab9927205326f72556c5ef30aa619"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "google-gemini",
+      "module_title": "Google Gemini",
+      "module_ordinal": [
+        17
+      ],
+      "source_path": "Courses/Open AI - Courseware/17 - Google Gemini.md",
+      "source_type": "markdown",
+      "byte_size": 17843,
+      "content_sha256": "69517fb1521e21f561380dbffd8b98d2b45eb885c9672753336c46610ab841fe"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "getting-started-with-openai-api",
+      "module_title": "Getting Started with OpenAI API",
+      "module_ordinal": [
+        2
+      ],
+      "source_path": "Courses/Open AI - Courseware/2 - Getting Started with OpenAI API.md",
+      "source_type": "markdown",
+      "byte_size": 15915,
+      "content_sha256": "d10de4c2d13f69a245ae73ef2c24aaf9b53d7ac46f0a3baaaa689a2e43fd12fa"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "c-examples",
+      "module_title": "C# Examples",
+      "module_ordinal": [
+        2,
+        1
+      ],
+      "source_path": "Courses/Open AI - Courseware/2.1 - C# Examples.md",
+      "source_type": "markdown",
+      "byte_size": 5195,
+      "content_sha256": "3d2b6bb2cb36d3d6057e6b4be8eb241442541c082cbfd71d6a43a033721704bd"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "request-parameters",
+      "module_title": "Request Parameters",
+      "module_ordinal": [
+        3
+      ],
+      "source_path": "Courses/Open AI - Courseware/3 - Request Parameters.md",
+      "source_type": "markdown",
+      "byte_size": 18233,
+      "content_sha256": "ae3837cfc91fd9f602537a2857c744fdd351b8b5c6840e7d39762cf55369a42d"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "structured-outputs",
+      "module_title": "Structured Outputs",
+      "module_ordinal": [
+        4
+      ],
+      "source_path": "Courses/Open AI - Courseware/4 - Structured Outputs.md",
+      "source_type": "markdown",
+      "byte_size": 16984,
+      "content_sha256": "15da07740b2c0fd23ae85f0c6053468669faa1901d42f65bfe4f4b520ac870db"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "error-codes-debugging-and-troubleshooting",
+      "module_title": "Error Codes, Debugging and Troubleshooting",
+      "module_ordinal": [
+        5
+      ],
+      "source_path": "Courses/Open AI - Courseware/5 - Error Codes, Debugging and Troubleshooting.md",
+      "source_type": "markdown",
+      "byte_size": 3619,
+      "content_sha256": "21c51f159aa3ab4819302db80c57bc19936a63adb363261cb0f46563ae36651c"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "file-management-in-openai",
+      "module_title": "File Management in OpenAI",
+      "module_ordinal": [
+        7
+      ],
+      "source_path": "Courses/Open AI - Courseware/7 - File Management in OpenAI.md",
+      "source_type": "markdown",
+      "byte_size": 8392,
+      "content_sha256": "3e6bc6a811a6b693fa30ac4a5673959710e533d090a73a787407f7df80c3074b"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "specialized-models",
+      "module_title": "Specialized Models",
+      "module_ordinal": [
+        8
+      ],
+      "source_path": "Courses/Open AI - Courseware/8 - Specialized Models.md",
+      "source_type": "markdown",
+      "byte_size": 15803,
+      "content_sha256": "a06961f661c5bab70bd11481ce9aaaece02ac49b1679fad845f06698595f2db2"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "vectorization-and-embeddings",
+      "module_title": "Vectorization and Embeddings",
+      "module_ordinal": [
+        8,
+        1
+      ],
+      "source_path": "Courses/Open AI - Courseware/8.1 - Vectorization and Embeddings.md",
+      "source_type": "markdown",
+      "byte_size": 22518,
+      "content_sha256": "7decaf173b5f8e618f5a8f86cd2300e0b7895099309fc0cba44f32f7594cda9c"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "opensearch-installation",
+      "module_title": "OpenSearch_Installation",
+      "module_ordinal": [
+        8,
+        2
+      ],
+      "source_path": "Courses/Open AI - Courseware/8.2 - OpenSearch_Installation.md",
+      "source_type": "markdown",
+      "byte_size": 2765,
+      "content_sha256": "5893a2cad0a4af8057e6c1e916c2a8c23fa83f8d2191c9f15fcab59a5af28fd6"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "retrieval-augmented-generation-rag",
+      "module_title": "Retrieval Augmented Generation (RAG)",
+      "module_ordinal": [
+        9
+      ],
+      "source_path": "Courses/Open AI - Courseware/9 - Retrieval Augmented Generation (RAG).md",
+      "source_type": "markdown",
+      "byte_size": 11984,
+      "content_sha256": "fdfa514834aa8d00b8bf2e25eb2f6e7ce6d0effcadfff6ae3093d13378669f08"
+    },
+    {
+      "course_id": "openai-courseware",
+      "module_key": "embedding-and-rag-for-webinar",
+      "module_title": "Embedding and RAG for Webinar",
+      "module_ordinal": [
+        9999
+      ],
+      "source_path": "Courses/Open AI - Courseware/Embedding and RAG for Webinar.md",
+      "source_type": "markdown",
+      "byte_size": 21217,
+      "content_sha256": "1021e7690db96d691bf05ee295ee15a59b8c903b87276cba50719efa6dd14c07"
+    }
+  ]
+}

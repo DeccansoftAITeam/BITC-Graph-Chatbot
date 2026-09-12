@@ -1,0 +1,12 @@
+course_id: openai-courseware
+title: OpenAI Developer Courseware
+version: "1.0"
+status: draft
+description: Courseware on OpenAI APIs, embeddings, retrieval augmented generation, and agent tooling.
+technology_tags:
+  - OpenAI API
+  - Retrieval Augmented Generation
+  - Embeddings
+  - Model Context Protocol
+  - LangChain
+source_root: Courses/Open AI - Courseware

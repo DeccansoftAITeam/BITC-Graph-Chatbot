@@ -1,0 +1,1 @@
+"""Course GraphRAG teaching platform."""
