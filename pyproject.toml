@@ -16,6 +16,7 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = ["pytest>=8.0,<9"]
+workshop = ["jupyterlab>=4.0,<5", "ipykernel>=6.0,<7"]
 
 [project.scripts]
 course-knowledge = "course_knowledge.cli:main"
